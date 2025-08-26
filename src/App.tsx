@@ -80,7 +80,7 @@ function App() {
       </nav>
 
       {/* Conteúdo da página com padding-top para navbar */}
-      <main className="text-[#FDFDFD] scroll-smooth pt-24">
+      <main className="text-[#FDFDFD] scroll-smooth">
         {/* Personagem */}
         <section
           id="personagem"
